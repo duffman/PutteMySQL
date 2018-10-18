@@ -1,0 +1,9 @@
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/bin/Release/netcoreapp2.0/TopZap.Database.deps.json
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/bin/Release/netcoreapp2.0/TopZap.Database.dll
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/bin/Release/netcoreapp2.0/TopZap.Database.pdb
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.csprojAssemblyReference.cache
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.csproj.CoreCompileInputs.cache
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.AssemblyInfoInputs.cache
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.AssemblyInfo.cs
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.dll
+/mnt/c/TopZap/TopZap.Software/TopZap.DotNet.Shared.git/TopZap.Database/obj/Release/netcoreapp2.0/TopZap.Database.pdb

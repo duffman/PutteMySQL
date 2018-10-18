@@ -1,0 +1,9 @@
+C:\Putte\PutteMySQL\bin\Debug\netcoreapp2.1\PutteMySQL.deps.json
+C:\Putte\PutteMySQL\bin\Debug\netcoreapp2.1\PutteMySQL.dll
+C:\Putte\PutteMySQL\bin\Debug\netcoreapp2.1\PutteMySQL.pdb
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.csproj.CoreCompileInputs.cache
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.AssemblyInfoInputs.cache
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.AssemblyInfo.cs
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.dll
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.pdb
+C:\Putte\PutteMySQL\obj\Debug\netcoreapp2.1\PutteMySQL.csprojAssemblyReference.cache

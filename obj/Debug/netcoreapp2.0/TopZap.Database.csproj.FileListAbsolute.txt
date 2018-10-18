@@ -1,0 +1,17 @@
+C:\TopZap\ASPWebApp\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.deps.json
+C:\TopZap\ASPWebApp\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.dll
+C:\TopZap\ASPWebApp\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.pdb
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.csprojResolveAssemblyReference.cache
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.csproj.CoreCompileInputs.cache
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.AssemblyInfoInputs.cache
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.AssemblyInfo.cs
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.dll
+C:\TopZap\ASPWebApp\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.pdb
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.deps.json
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.dll
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\bin\Debug\netcoreapp2.0\TopZap.Database.pdb
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.csproj.CoreCompileInputs.cache
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.AssemblyInfoInputs.cache
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.AssemblyInfo.cs
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.dll
+C:\TopZap\TopZap.Software\TopZap.DotNet.Shared.git\TopZap.Database\obj\Debug\netcoreapp2.0\TopZap.Database.pdb
